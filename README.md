@@ -1,11 +1,9 @@
----
-description: 'link đọc gitbook:  https://nthiep1998.gitbook.io/pfsense/'
----
-
 # Tài liệu pfsense
 
   
+link đọc gitbook: 
 
+[https://nthiep1998.gitbook.io/pfsense/](https://nthiep1998.gitbook.io/pfsense/)
 
 **MỤC LỤC**
 
