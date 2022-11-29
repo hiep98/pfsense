@@ -1,6 +1,7 @@
 # Tài liệu pfsense
 
-  
+
+  
 link đọc gitbook: 
 
 [https://nthiep1998.gitbook.io/pfsense/](https://nthiep1998.gitbook.io/pfsense/)
@@ -35,6 +36,6 @@ link đọc gitbook:
 
 
 
-TÀI LIỆU CÓ THAM KHẢO VÀ VỀ MỘT SỐ LÝ THUYẾT ĐÃ ĐƯỢC BIẾT VỚI MỘT SỐ TRANG WEB ĐƯỢC PUBLIC TRÊN INTERNET. NẾU TRANG HOẶC BẠN NÀO ĐỌC ĐƯỢC NỘI DUNG TƯƠNG TỰ TRONG TÀI LIỆU THÌ CÓ THỂ LIÊN HỆ [https://infosecvn.blogspot.com](https://infosecvn.blogspot.com/) ĐỂ NGƯỜI VIẾT GHI THÊM NGUỒN. XIN CẢM ƠN.  
+TÀI LIỆU CÓ THAM KHẢO VÀ VỀ MỘT SỐ LÝ THUYẾT ĐÃ ĐƯỢC BIẾT VỚI MỘT SỐ TRANG WEB ĐƯỢC PUBLIC TRÊN INTERNET.  
 
 
